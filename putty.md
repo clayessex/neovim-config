@@ -1,8 +1,9 @@
 
-# PuTTY Configuration
+# PuTTY Terminal Configuration
 
 These are the terminal settings for PuTTY to work with a modern
-Neovim configuration. (LazyVim) 
+Neovim configuration. (LazyVim) This has been tested with PuTTY
+version 0.79 and Ubuntu 22.04. Also using LazyVim 10.10.0.
 
 ## Putty Settings
 * Terminal/Keyboard
